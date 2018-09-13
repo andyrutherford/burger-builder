@@ -105,6 +105,14 @@
     border-radius: 20px;
 }
 
+.Pickles {
+    width: 25%;
+    height: 3%;
+    margin: 2% auto;
+    background: linear-gradient(#afff3e, #e7f300);
+    border-radius: 5px;
+}
+
 .Bacon {
     width: 80%;
     height: 3%;
